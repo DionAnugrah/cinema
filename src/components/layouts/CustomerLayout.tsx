@@ -35,7 +35,7 @@ const CustomerLayout: React.FC<CustomerLayoutProps> = ({ children }) => {
             {/* Logo */}
             <Link to="/" className="flex items-center">
               <Film size={24} className="mr-2" />
-              <span className="text-xl font-bold">CinemaPlus</span>
+              <span className="text-xl font-bold">MetaCine</span>
             </Link>
 
             {/* Desktop Navigation */}

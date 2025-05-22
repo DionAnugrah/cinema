@@ -27,12 +27,12 @@ export const mockUsers: User[] = [
 export const mockMovies: Movie[] = [
   {
     id: '1',
-    title: 'Inception',
-    genre: 'Sci-Fi',
-    releaseYear: 2010,
+    title: 'Attack on Titan',
+    genre: 'Action',
+    releaseYear: 2020,
     duration: 148,
-    description: 'A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.',
-    posterUrl: 'https://images.pexels.com/photos/9764505/pexels-photo-9764505.jpeg?auto=compress&cs=tinysrgb&w=600'
+    description: 'After his hometown is destroyed, young Eren Jaeger vows to cleanse the earth of the giant humanoid Titans that have brought humanity to the brink of extinction.',
+    posterUrl: 'https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/c702212d-6903-4d7f-bb44-c9e0b30b9f97/The+Final+Season'
   },
   {
     id: '2',

@@ -36,7 +36,7 @@ const HomePage: React.FC = () => {
           <div className="relative max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <Film className="mx-auto mb-4 text-red-500" size={48} />
             <h1 className="text-3xl md:text-4xl font-extrabold text-white mb-2">
-              Welcome to CinemaPlus
+              Welcome to MetaCine
             </h1>
             <p className="text-lg md:text-xl text-gray-200 mb-6">
               Experience movies like never before
